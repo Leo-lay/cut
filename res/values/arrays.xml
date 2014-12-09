@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="add_picture">
+        <item>照相机</item>
+        <item>从相册选取</item>
+    </string-array>
+    <string-array name="fromWorkTypeArr">
+        <item>娱乐模板</item>
+        <item>企业模板</item>
+        <item>其他模板</item>
+    </string-array>
+</resources>
