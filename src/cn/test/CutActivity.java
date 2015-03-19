@@ -36,7 +36,7 @@ public class CutActivity extends Activity {
 				Intent intent = new Intent(
 				"android.media.action.IMAGE_CAPTURE");
 				mCurrentPhotoFile = new File(
-						"mnt/sdcard/DCIM/Camera/",
+						"mnt/sdcard/DCIM/Concordy/",
 						getPhotoFileName());
 			intent.putExtra(MediaStore.EXTRA_OUTPUT, Uri.fromFile(mCurrentPhotoFile));
 		startActivityForResult(
